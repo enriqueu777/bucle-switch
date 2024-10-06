@@ -90,6 +90,9 @@ internal class Program
             default:
 
                 Console.WriteLine("El numero de mes escogido no es el correcto");
+
+                Console.WriteLine("Introduce otro numero");
+
                 break;
 
 
