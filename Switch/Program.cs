@@ -67,11 +67,17 @@ internal class Program
 
                 break;
 
+            case 10:
+                Console.WriteLine("Mes escogido Octubre");
 
-            
+                break;
 
 
-           
+
+
+
+
+
                 break;
             default:
 
