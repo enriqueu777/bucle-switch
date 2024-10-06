@@ -89,7 +89,7 @@ internal class Program
                 break;
             default:
 
-                Console.WriteLine("La opcion elegida no es correcta");
+                Console.WriteLine("El numero de mes escogido no es el correcto");
                 break;
 
 
