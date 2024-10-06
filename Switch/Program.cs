@@ -72,7 +72,12 @@ internal class Program
 
                 break;
 
-            Case 10:
+            case 11:
+                Console.WriteLine("Mes escogido Noviembre");
+
+                break;
+
+            case 12:
                 Console.WriteLine("Mes escogido Noviembre");
 
                 break;
