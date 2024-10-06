@@ -12,3 +12,4 @@ C:\Users\eutreror\source\repos\Switch\Switch\obj\Debug\net8.0\refint\Switch.dll
 C:\Users\eutreror\source\repos\Switch\Switch\obj\Debug\net8.0\Switch.pdb
 C:\Users\eutreror\source\repos\Switch\Switch\obj\Debug\net8.0\Switch.genruntimeconfig.cache
 C:\Users\eutreror\source\repos\Switch\Switch\obj\Debug\net8.0\ref\Switch.dll
+C:\Users\eutreror\source\repos\Switch\Switch\obj\Debug\net8.0\Switch.sourcelink.json
