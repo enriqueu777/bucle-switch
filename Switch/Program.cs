@@ -93,6 +93,8 @@ internal class Program
 
                 Console.WriteLine("Introduce otro numero");
 
+                Console.WriteLine("no te confundas con la opcion");
+
                 break;
 
 
