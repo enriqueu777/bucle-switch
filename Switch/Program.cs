@@ -87,10 +87,6 @@ internal class Program
 
 
 
-                //Espacio
-                // prueba de fork uno
-
-                //Espacio codigo
 
 
 
@@ -102,8 +98,9 @@ internal class Program
                 Console.WriteLine("La opcion elegida no es correcta");
                 break;
 
-              //comentario
+             
 
+                //Limpieza comentarios
 
 
 
